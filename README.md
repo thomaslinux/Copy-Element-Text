@@ -9,7 +9,7 @@ Download everything
 
 ## Chrome
 
-[chrome://extensions/](chrome://extensions/)
+``chrome://extensions/``
 
 check Developer mode
 
@@ -19,7 +19,7 @@ Restart chrome
 
 ## Firefox
 
-[about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
+``about:debugging#/runtime/this-firefox``
 
 replace manifest.json with manifest-firefox.json
 

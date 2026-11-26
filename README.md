@@ -21,7 +21,7 @@ Restart chrome
 
 ``about:debugging#/runtime/this-firefox``
 
-replace manifest.json with manifest-firefox.json
+replace manifest.json with firefox/manifest.json
 
 load temporary module
 

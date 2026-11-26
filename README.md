@@ -9,15 +9,20 @@ Download everything
 
 ## Chrome
 
-chrome://extensions/
+[chrome://extensions/](chrome://extensions/)
+
 check Developer mode
+
 load unpacked
+
 Restart chrome
 
 ## Firefox
 
-about:debugging#/runtime/this-firefox
+[about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
+
 replace manifest.json with manifest-firefox.json
+
 load temporary module
 
 (you'll have to do it every time you restart firefox)
@@ -25,7 +30,9 @@ load temporary module
 # Plans
 
 Maybe a filter to blur the text idk,
+
 Publish to chrome web store and firefox web store
+
 An Icon ?
 
 # Licence
